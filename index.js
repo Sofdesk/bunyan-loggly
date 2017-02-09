@@ -1,4 +1,4 @@
-var loggly = require('loggly');
+var loggly = require('node-loggly-bulk');
 var stringifySafe = require('json-stringify-safe');
 var noop = function () {};
 
